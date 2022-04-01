@@ -1,0 +1,47 @@
+********** Pay Slips for ABC College Employees **********
+
+*************************************
+***** PAY SLIP *****
+Employee Number: 15697
+Name: Thanos Doe
+Department: Arts
+Hours Worked: 100
+Employee Type: F/Faculty
+*******************
+Gross Salary: $19,000.00
+Deductions: $4,158.00
+Net Salary: $14,842.00
+*************************************
+
+*************************************
+***** PAY SLIP *****
+Employee Number: 263148
+Name: Arya Stark
+Department: Science
+Hours Worked: 250
+Employee Type: N/Non-Faculty
+*******************
+Gross Salary: $8,500.00
+Deductions: $1,533.00
+Net Salary: $6,967.00
+*************************************
+
+*************************************
+***** PAY SLIP *****
+Employee Number: 312894
+Name: Tony Stark
+Department: History
+Hours Worked: 300
+Employee Type: F/Faculty
+*******************
+Gross Salary: $30,600.00
+Deductions: $7,058.00
+Net Salary: $23,542.00
+*************************************
+
+*************************************
+***** PAY SLIPS REPORT *****
+Total no. of processed Employees: 3
+- Total no. of processed Faculty Employees: 2
+- Total no. of processed Non-Faculty Employees: 1
+*************************************
