@@ -32,6 +32,9 @@ ABCC staff is divided into 2 major groups, i.e, `Faculty` and `Non-faculty` staf
 Enter the number of Employees for whom you wish to generate Pay Slips:
 ```
 
+## Output file
+- You can find the generated payslips os all the employees in a text file at root folder, named, `paySlips.txt`
+
 ## Classes Created
 - `Final` : This class contains the main class(starting point of this app)
 - `ConsoleInterface` : This package handles all activities of displaying as well as accepting data from the user. It also handles printing activity of the payslips
