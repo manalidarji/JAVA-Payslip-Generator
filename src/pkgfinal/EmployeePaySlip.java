@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 public abstract class EmployeePaySlip {
@@ -97,5 +96,3 @@ public abstract class EmployeePaySlip {
         return this.netSalary;
     }   
 }
-
-//117430215

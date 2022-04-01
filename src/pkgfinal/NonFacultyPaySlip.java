@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 public class NonFacultyPaySlip extends EmployeePaySlip {
@@ -34,7 +33,6 @@ public class NonFacultyPaySlip extends EmployeePaySlip {
         return "NonFacultyPaySlip{Employee=" + super.getEmp() + ", fixedGrossSal=" + fixedGrossSal + '}';
     }
     
-    // 117430215
 
     @Override
     public double calcGrossSalary() {
@@ -56,5 +54,3 @@ public class NonFacultyPaySlip extends EmployeePaySlip {
         return grossSal;
     }    
 }
-
-//117430215

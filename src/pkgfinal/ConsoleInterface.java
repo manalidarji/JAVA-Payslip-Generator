@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 import java.io.BufferedWriter;
@@ -259,5 +258,3 @@ public class ConsoleInterface {
         output.write("\nNet Salary: " + getMoneyFormat(paySlip.calcNetSalary()));
     }
 }
-
-//117430215

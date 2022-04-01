@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 import java.io.IOException;
@@ -23,4 +22,3 @@ public class Final {
         }
     }
 }
-//117430215

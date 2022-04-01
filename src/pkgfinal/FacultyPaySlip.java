@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 public class FacultyPaySlip extends EmployeePaySlip {
@@ -25,7 +24,6 @@ public class FacultyPaySlip extends EmployeePaySlip {
         this.teachingAllowance = teachingAllowance;
     }
     
-    // 117430215
 
     public double getRateOfPay() {
         return rateOfPay;
@@ -55,5 +53,3 @@ public class FacultyPaySlip extends EmployeePaySlip {
         return grossSal;
     }    
 }
-
-//117430215

@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 public class PositiveIntegerException extends Exception{
@@ -10,5 +9,3 @@ public class PositiveIntegerException extends Exception{
         super(message);
     }
 }
-
-//117430215

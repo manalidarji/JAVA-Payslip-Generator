@@ -1,4 +1,3 @@
-//117430215
 package pkgfinal;
 
 public class Employee {
@@ -78,5 +77,3 @@ public class Employee {
         return this.firstName + " " + this.lastName;
     }
 }
-
-//117430215
