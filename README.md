@@ -33,7 +33,7 @@ Enter the number of Employees for whom you wish to generate Pay Slips:
 ```
 
 ## Output file
-- You can find the generated payslips os all the employees in a text file at root folder, named, `paySlips.txt`
+- You can find the generated payslips of all the employees in a text file at root folder, named, `paySlips.txt`
 
 ## Classes Created
 - `Final` : This class contains the main class(starting point of this app)
